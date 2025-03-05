@@ -4,7 +4,7 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "Python3",
+			"label": "Python 3",
 			"type": "shell",
 			"command": "python3 '${file}'",
 			"presentation": {"showReuseMessage": false, "clear": true},
